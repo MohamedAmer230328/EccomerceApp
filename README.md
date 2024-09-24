@@ -1,1 +1,3 @@
 # EccomerceApp
+
+#project notes
